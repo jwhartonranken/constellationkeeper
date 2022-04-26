@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="constellationName" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="constellationDomain" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="rowLabels" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="brightestInfo" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+    </style>
+
+    <style name="etSaveUpdate" parent="Widget.AppCompat.EditText">
+        <item name="minHeight">48dp</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+        <item name="hintTextColor">?attr/colorOnSecondary</item>
+        <item name="android:textColorHint">?attr/colorOnSecondary</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="primaryButton" parent="Widget.AppCompat.Button">
+        <item name="backgroundTint">?colorPrimaryVariant</item>
+        <item name="android:textColor">?colorOnPrimary</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="secondaryButton" parent="Widget.AppCompat.Button">
+        <item name="backgroundTint">?colorSecondaryVariant</item>
+        <item name="android:textColor">?colorOnSecondary</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+</resources>

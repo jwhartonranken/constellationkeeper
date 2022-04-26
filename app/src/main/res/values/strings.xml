@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SQLiteTest</string>
+    <string name="deleteAll">Delete All</string>
+    <string name="addAConstellation">Add a Constellation</string>
+
+    <string name="placeholderID">1</string>
+    <string name="placeholderName">Grus</string>
+    <string name="placeholderBrightest">Al Na\'ir</string>
+    <string name="placeholderMagnitude">1.7</string>
+    <string name="placeholderDomain">Rivers</string>
+    <string name="starMagnitude">Star Magnitude:</string>
+    <string name="brightestStar">Brightest Star:</string>
+
+    <string name="hintName">Name</string>
+    <string name="hintDomain">Constellation Domain</string>
+    <string name="hintBrightest">Brightest Star</string>
+    <string name="hintMagnitude">Star Magnitude</string>
+
+    <string name="btnSave">Save</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+</resources>
